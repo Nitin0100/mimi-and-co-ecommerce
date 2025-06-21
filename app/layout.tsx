@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description: 'Discover the cutest and most comfortable fashion for your little ones. MIMI & CO offers adorable clothing for children aged 0-5 years with soft pastel themes and playful designs.',
   keywords: 'kids fashion, baby clothes, toddler clothing, children fashion, MIMI & CO',
   authors: [{ name: 'MIMI & CO' }],
-  metadataBase: new URL('http://localhost:3000'),
+  metadataBase: new URL('https://mimi-and-co-ecommerce.vercel.app'),
   openGraph: {
     title: 'MIMI & CO - Adorable Fashion for 0-5 Year Olds',
     description: 'Discover the cutest and most comfortable fashion for your little ones.',
